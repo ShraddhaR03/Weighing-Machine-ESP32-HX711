@@ -35,17 +35,17 @@ A digital weighing machine built with ESP32 and HX711 load cell amplifier. It su
 
 | OLED | ESP32 |
 |------|--------|
-| VCC -> 3V3 |
-| GND -> GND |
-| SDA -> GPIO 21 |
-| SCL -> GPIO 22 |
+| VCC | 3V3 |
+| GND | GND |
+| SDA | GPIO 21 |
+| SCL | GPIO 22 |
 
 ### Peak Reset Button
 
 | Button | ESP32 |
 |--------|--------|
-| One pin -> GPIO 27 |
-| Other pin -> GND |
+| One pin | GPIO 27 |
+| Other pin | GND |
 
 ## Features
 
